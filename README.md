@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi there! 👋</h1> 
-  This is Hamza Kamal, a Computer Systems Engineer, and a learner. I have a passion for learning different things, languages, and frameworks. And in pursuit of learning,   I experiment with things and sometimes get failed and sometimes succeed. I posses a strong inclination towards Data Structures and Mobile App Development and am deeply   passionate about exploring and mastering these areas. As far as my development journey is concerned, I have started to explore Cross-Platform App Development in the     shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, Arduino, TypeScript, Python, Matlab, Dart/Flutter.
+  This is Hamza Kamal, a Computer Systems Engineer, and a learner. I have a passion for learning different things, languages, and frameworks. And in pursuit of           learning, I experiment with things and sometimes get failed and sometimes succeed. I posses a strong inclination towards Data Structures and Mobile App Development     and am deeply passionate about exploring and mastering these areas. As far as my development journey is concerned, I have started to explore Cross-Platform App         Development in the shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, Arduino, TypeScript, Python, Matlab,         Dart/Flutter.
 </p>
 
 ## Tech Stack :computer:
@@ -19,8 +19,8 @@
 ---
 
 <p align="center">
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=hmzaak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzaak&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=hmzaak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"   />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzaak&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
 
@@ -38,20 +38,7 @@ Outside of [GitHub](https://github.com/hmzaak/), You can **find me**. Currently 
   <a href="https://twitter.com/hmzaa_k">
     <img src="https://img.shields.io/twitter/follow/hmzaa_k?style=social" />
   </a>
+  <a href="https://www.linkedin.com/in/hamza-kamal-505406179">
+    <img src="https://img.shields.io/badge/-Hamza Kamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
+  </a>
 </p>
-
-
-<!--
-**hmzaak/hmzaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
