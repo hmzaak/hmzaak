@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi there! 👋</h1> 
-  This is Hamza Kamal, a Computer Systems Engineer, and a learner. I have a passion for learning different things, languages, and frameworks. And in pursuit of           learning, I experiment with things and sometimes get failed and sometimes succeed. I posses a strong inclination towards Data Structures and Mobile App Development     and am deeply passionate about exploring and mastering these areas. As far as my development journey is concerned, I have started to explore Cross-Platform App         Development in the shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, Arduino, TypeScript, Python, Matlab,         Dart/Flutter.
+  This is Hamza Kamal, a Computer Systems Engineer, and a learner. I have a passion for learning different things, languages, and frameworks. And in pursuit of           learning, I experiment with things and sometimes get failed and sometimes succeed. I posses a strong inclination towards Data Structures and Mobile App Development     and am deeply passionate about exploring and mastering these areas. As far as my development journey is concerned, I have started to explore Cross-Platform App         Development in the shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, TypeScript, Python, Matlab,         Dart/Flutter.
 </p>
 
 ## Tech Stack :computer:
@@ -8,7 +8,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
