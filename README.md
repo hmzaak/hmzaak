@@ -32,9 +32,9 @@ Outside of [GitHub](https://github.com/hmzaak/), You can **find me**. Currently 
   <a href="https://github.com/hmzaak?tab=followers">
     <img src="https://komarev.com/ghpvc/?username=hmzaak&color=blue&label=Profile+Views" alt="GitHub badge" />
   </a>
-  <a href="https://github.com/hmzaak?tab=followers">
+<!--   <a href="https://github.com/hmzaak?tab=followers">
     <img src="https://img.shields.io/github/followers/hmzaak?label=follow&style=social" alt="GitHub badge" />
-  </a>
+  </a> -->
   <a href="https://twitter.com/hmzaa_k">
     <img src="https://img.shields.io/twitter/follow/hmzaa_k?style=social" />
   </a>
