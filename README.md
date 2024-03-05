@@ -1,6 +1,6 @@
 <h1>Hi there! 👋</h1> 
 <p>
-  Honestly, explaining who I am is pretty hard for me as I feel like I'm always wearing a mask, a mask that hides my true self from the outside world and represents me as an average citizen. Even I don't know who I am, but I am damn sure that the 'me' with the mask isn't the true me. I wonder how it would feel to walk around without that mask. Anyways, I will tell you a bit about the person I am with the mask.
+  Honestly, explaining who I am is pretty hard for me as I feel like I'm always wearing a mask, a mask that hides my true self from the outside world and represents me a normal person. Even I don't know who I am, but I am damn sure that the 'me' with the mask isn't the true me. I wonder how it would feel to walk around without that mask. Anyways, I will tell you a bit about the person I am with the mask.
   
   I'm Hamza Kamal, a Computer Systems Engineer, a learner and an old-fashioned guy. I have a passion for learning different languages, and frameworks. I posses a strong inclination towards Data Structures and Mobile App Development     and am deeply passionate about exploring and mastering these areas. To pursue my passion, I started to explore Cross-Platform App         Development in the shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, TypeScript, Python, Matlab,         Dart/Flutter.
 
