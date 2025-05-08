@@ -1,10 +1,8 @@
 <h1>Hi there! 👋</h1> 
 <p>
-  Well, it's hard to explain who I am because I feel like I'm always hiding behind a mask. The person people see isn't the real me, and even I don't fully know who I am. I wonder what it would be like to be myself without that mask. But for now, I'll tell you a bit about the person I appear to be.
-  
   I'm Hamza Kamal, a Computer Systems Engineer, a learner and an old-fashioned guy. I have a passion for learning different languages and frameworks. Mobile App Development and Data Structures have captured my interest, driving me to explore and master these areas. This passion led me to pursue a career in Flutter. Along with that, I have experience with different programming languages, C/C++, TypeScript, Python.
 
-Outside of my technical persuits, I love playing Cricket, listening to classical music and watching movies and shows particularly those centered around serial killers. One thing more... I use humor as a defense mechanism for all my mental problems. 
+Outside of my technical persuits, I love playing Cricket, Table Tennis, listening to classical music and watching movies and shows particularly those centered around serial killers. One thing more... I use humor as a defense mechanism for all my mental problems. 
 </p>
 
 ## Tech Stack :computer:
